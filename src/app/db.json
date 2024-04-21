@@ -1,0 +1,82 @@
+{
+  "employees": [
+    {
+      "department": "administrator",
+      "empName": "Niamat1",
+      "mobile": "123",
+      "gender": "male",
+      "joiningDate": "2024-03-31",
+      "email": "niamat@gmail.com",
+      "salary": "123456789",
+      "password": "12",
+      "confirmPassword": "12",
+      "status": true,
+      "id": "d7ca"
+    },
+    {
+      "id": "2fd9",
+      "department": "accounts",
+      "empName": "Sajid",
+      "mobile": "3236311366",
+      "gender": "male",
+      "joiningDate": "2024-03-02",
+      "email": "sajidmct21@gmail.com",
+      "salary": "98765432",
+      "password": "123",
+      "confirmPassword": "123",
+      "status": true
+    },
+    {
+      "id": "7c56",
+      "department": "managers",
+      "empName": "Abid",
+      "mobile": "0323407590",
+      "gender": "male",
+      "joiningDate": "2024-04-03",
+      "email": "abid@gmail.com",
+      "salary": "49000",
+      "password": "321",
+      "confirmPassword": "321",
+      "status": false
+    },
+    {
+      "id": "a6af",
+      "department": "accounts",
+      "empName": "neelam",
+      "mobile": "12345678923",
+      "gender": "female",
+      "joiningDate": "2024-04-02",
+      "email": "sajid_yaqub786@hotmail.com",
+      "salary": "12589643",
+      "password": "123",
+      "confirmPassword": "123",
+      "status": false
+    },
+    {
+      "department": "accounts",
+      "empName": "Rashid",
+      "mobile": "124",
+      "gender": "female",
+      "joiningDate": "2024-04-02",
+      "email": "sajidmct21@gmail.com",
+      "salary": "1234",
+      "password": "12",
+      "confirmPassword": "12",
+      "status": true,
+      "id": "bffc"
+    },
+    {
+      "id": "ff29",
+      "department": "managers",
+      "empName": "Sadaqat",
+      "mobile": "03006598425",
+      "gender": "male",
+      "joiningDate": "2024-04-03",
+      "email": "sadaqat@hotmail.com",
+      "salary": "123456789",
+      "password": "789",
+      "confirmPassword": "789",
+      "status": true
+    }
+  ]
+}
